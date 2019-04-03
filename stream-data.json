@@ -1,0 +1,73 @@
+{
+    "videoId": "j4gM9Drpcoo",
+    "link": "https://www.youtube.com/embed/j4gM9Drpcoo",
+    "source": "youtube",
+    "products": [
+        {
+            "title": "Canon 70D",
+            "productId": 112233444,
+            "product": {
+                "id": 123,
+                "image": "https://1.img-dpreview.com/files/p/articles/4325164765/newsimage2.jpeg",
+                "price": "124.99",
+                "description": "Sample description goes here",
+                "variants": [
+                    {
+                        "productId": 112233444,
+                        "id": 112233445
+                    },
+                    {
+                        "productId": 112233444,
+                        "id": 112233446
+                    }
+                ]
+            },
+            "timeIn": "00:15",
+            "timeOut": "00:25"
+        },
+        {
+            "title": "Canon - Flash",
+            "productId": 112233444,
+            "product": {
+                "id": 456,
+                "image": "https://www.bhphotovideo.com/images/images1000x1000/Canon_5296B002_Speedlite_600EX_847537.jpg",
+                "price": "45.99",
+                "description": "Sample description goes here",
+                "variants": [
+                    {
+                        "productId": 112233444,
+                        "id": 112233445
+                    },
+                    {
+                        "productId": 112233444,
+                        "id": 112233446
+                    }
+                ]
+            },
+            "timeIn": "00:30",
+            "timeOut": "00:40"
+        },
+        {
+            "title": "70D - 50mm",
+            "productId": 112233444,
+            "product": {
+                "id": 765,
+                "image": "https://images-na.ssl-images-amazon.com/images/I/71k8-EgKePL._SL1098_.jpg",
+                "price": "124.99",
+                "description": "Sample description goes here",
+                "variants": [
+                    {
+                        "productId": 112233444,
+                        "id": 112233445
+                    },
+                    {
+                        "productId": 112233444,
+                        "id": 112233446
+                    }
+                ]
+            },
+            "timeIn": "00:45",
+            "timeOut": "00:55"
+        }
+    ]
+}

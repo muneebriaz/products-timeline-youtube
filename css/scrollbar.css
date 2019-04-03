@@ -1,0 +1,12 @@
+#products-wrapper::-webkit-scrollbar
+{
+	width: 5px;
+	background-color: white;
+}
+
+#products-wrapper::-webkit-scrollbar-thumb
+{
+	border-radius: 3px;
+	/* -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3); */
+	background-color: #E6E7EF;
+}
